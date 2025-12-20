@@ -1,4 +1,4 @@
-#Grade sheet
+#Check whether a number lies within a given range
 
 num = int(input("Number : "))
 
@@ -9,4 +9,5 @@ elif(num>=80 and num<90):
 elif(num>=70 and num<80):
     print("C")
 else:
+
     print("D")
